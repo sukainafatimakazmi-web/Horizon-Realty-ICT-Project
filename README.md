@@ -1,20 +1,20 @@
-# Project Summary
+## Project Summary
 
 Horizon Realty is a sleek and user-focused real estate website built to highlight different properties and provide essential real-estate information. The site is structured with a responsive layout, visually appealing design, and interactive components to ensure a smooth browsing experience. This project reflects our understanding of core front-end development concepts through clean code, responsiveness, and functional UI elements.
 
-# Project Goals
+## Project Goals
 
 - Build a realistic and professional real-estate website.
 - Showcase available properties with relevant details such as prices, images, and descriptions.
 - Ensure mobile, tablet, and desktop compatibility through responsive design.
 - Enhance usability with semantic markup and well-organized styling.
 
-# Technologies Implemented
+## Technologies Implemented
 
-*HTML — Used for meaningful and accessible structure
-*CSS — Applied for styling, layout (Flexbox/Grid), transitions, and animations
-*JavaScript — Enabled dynamic and interactive behavior
-*Font Awesome — Integrated for icons and UI aesthetics
+* HTML — Used for meaningful and accessible structure
+* CSS — Applied for styling, layout (Flexbox/Grid), transitions, and animations
+* JavaScript — Enabled dynamic and interactive behavior
+* Font Awesome — Integrated for icons and UI aesthetics
 
 #Key Features
 
