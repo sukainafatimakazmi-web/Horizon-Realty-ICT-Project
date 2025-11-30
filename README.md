@@ -56,13 +56,6 @@ https://github.com/sukainafatimakazmi-web/Horizon-Realty-ICT-Project
 - Tayyba Fatima	  25F-0780
 - Mahida Nayyar	  25F-0795
 
-### Screenshots Preview
-
-* Homepage — (screenshots/HomePage.png)
-* Properties Page — (screenshots/PropertiesPage.png)
-* Contact Page — (screenshots/ContactUsPage.png)
-* About Page — (screenshots/AboutUsPage.png)
-
 ### Academic Purpose
 
 This project was created as part of our course requirement to demonstrate competency in front-end web development, responsive layout techniques, and user interface design. 
