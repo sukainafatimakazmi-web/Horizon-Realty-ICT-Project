@@ -29,17 +29,22 @@ Horizon Realty is a sleek and user-focused real estate website built to highligh
 ### Folder Structure
 
 Horizon-Realty/
-│
-├── index.html            # Main Landing Page
-├── properties.html       # Property Listings Page
-├── about.html            # Company Information Page
-├── contact.html          # Contact & Inquiry Page
-│
-├── style.css             # Core Stylesheet
-├── script.js             # JavaScript Functionality
-│
-├── images/               # All image files
-└── screenshots/          # Project Preview Images
+
+├── index.html          # Homepage
+
+├── properties.html     # Properties with filters
+
+├── about.html          # About Us page
+
+├── contact.html        # Contact page
+
+├── style.css           # Main stylesheet
+
+├── script.js           # JavaScript functionality
+
+├── images/             # Image assets
+
+└── screenshots/        # Screenshots
 
 ### Live Repository
 
@@ -47,7 +52,6 @@ https://github.com/sukainafatimakazmi-web/Horizon-Realty-ICT-Project
 
 ### Team Members
 
-  Name	          Roll Number
 - Sukaina Kazmi	  25F-0805
 - Tayyba Fatima	  25F-0780
 - Mahida Nayyar	  25F-0795
