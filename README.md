@@ -30,21 +30,21 @@ Horizon Realty is a sleek and user-focused real estate website built to highligh
 
 Horizon-Realty/
 
-├── index.html          # Homepage
+├── README.MD          
 
-├── properties.html     # Properties with filters
+├── about.html          
 
-├── about.html          # About Us page
+├── contact.html     
 
-├── contact.html        # Contact page
+├── hero.mp4          
 
-├── style.css           # Main stylesheet
+├── index.html        
 
-├── script.js           # JavaScript functionality
+├── properties.html    
 
-├── images/             # Image assets
+├── script.js           
 
-└── screenshots/        # Screenshots
+└── style.css        
 
 ### Live Repository
 
